@@ -22,22 +22,19 @@
 
 **Languages**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,html,css,latex&perline=10&theme=light"><img src="https://skillicons.dev/icons?i=py,js,html,css,latex&perline=10&theme=dark" alt="py,js,html,css,latex"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,html,css,php,c,java,mysql&perline=10&theme=light"><img src="https://skillicons.dev/icons?i=py,js,html,css,php,c,java,mysql&perline=10&theme=dark" alt="py,js,html,css,php,c,java,mysql"></picture>
 
 **AI · Vision**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,opencv&perline=10&theme=light"><img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=10&theme=dark" alt="pytorch,opencv"></picture>
+<sub>Still learning. Taking my first steps in machine learning and computer vision, one dataset at a time.</sub>
 
 **Tools**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10&theme=light"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10&theme=dark" alt="git,github,vscode,linux"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github,vscode,linux&perline=10&theme=light"><img src="https://skillicons.dev/icons?i=github,vscode,linux&perline=10&theme=dark" alt="github,vscode,linux"></picture>
 
 **Design**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,ps,ai&perline=10&theme=light"><img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=10&theme=dark" alt="figma,ps,ai"></picture>
-
-
-<br>
+<sub>Learning. Exploring UI and visual design, and getting better with every project.</sub>
 
 ## <img src="assets/icons/connect.svg" width="26" height="26" align="top"> Let's connect
 
